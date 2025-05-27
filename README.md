@@ -100,10 +100,10 @@ allowing users to immediately review the results. The results include job simila
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    <img src="img/report1.png" alt="Batch Processing Pop-up 1" width="500px">
+    <img src="img/report1.png" alt="Batch Processing Pop-up 1" width="300px">
   </div>
   <div>
-    <img src="img/report2.png" alt="Batch Processing Pop-up 2" width="500px">
+    <img src="img/report2.png" alt="Batch Processing Pop-up 2" width="300px">
   </div>
 </div>
 

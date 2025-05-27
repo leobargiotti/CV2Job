@@ -1,0 +1,10 @@
+pdfplumber
+pandas
+PyQt6
+numpy
+scikit-learn
+sentence-transformers
+python-dotenv
+PyPDF2
+openpyxl
+requests

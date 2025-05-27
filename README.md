@@ -98,13 +98,10 @@ specify an output directory and file name, and monitor progress using the progre
 while the total execution time is shown upon completion. At the end of the process, the generated Excel file automatically opens, 
 allowing users to immediately review the results. The results include job similarity scores, saved in an Excel file with color-coded scores based on similarity.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div>
-    <img src="img/report1.png" alt="Batch Processing Pop-up 1" width="300px">
-  </div>
-  <div>
-    <img src="img/report2.png" alt="Batch Processing Pop-up 2" width="300px">
-  </div>
+<div style="text-align: center;">
+  <img src="img/report1.png" alt="Batch Processing Pop-up 1" width="500px">
+  <br><br>
+  <img src="img/report2.png" alt="Batch Processing Pop-up 2" width="500px">
 </div>
 
 ### Processing Report Dialog

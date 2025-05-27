@@ -1,5 +1,4 @@
 # Job Matching Application
-Project work for Gestione dell'innovazione course, MSc in Artificial Intelligence and Data Engineering @UNIPI, A.Y. 2024/2025
 
 ## Overview
 This project is a Python-based job matching application that processes job descriptions and resumes (CVs) to identify the most relevant opportunities. It uses state-of-the-art Natural Language Processing (NLP) techniques to extract information, generate embeddings, and compute similarities, providing an efficient and user-friendly interface for job seekers.
